@@ -1,1 +1,4 @@
 .idea
+.idx
+*.pem
+mkcert
